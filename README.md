@@ -9,6 +9,11 @@ Hi 👋🏻, I'm Dmitriy Agafonov
  - [Tg - bot](https://github.com/admitriy1931/Weather_Bot_Java) (Java)
  - [Automats](https://github.com/1Shadowscale1/Automats) (Java)
 
+# 📊 Github stats:
+![](https://github-readme-stats.vercel.app/api?username=admitriy1931&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=admitriy1931&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=admitriy1931&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 ## 🏆 Github trophies
 ![](https://github-profile-trophy.vercel.app/?username=admitriy1931&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
