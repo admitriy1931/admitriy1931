@@ -1,4 +1,14 @@
-## Hi there 👋
+# 💫 About me:
+Hi 👋🏻, I'm Dmitriy Agafonov
+
+# 💻 Main projects:
+#### DE
+ - [Spark_ETL](https://github.com/admitriy1931/Spark_ETL)
+#### Backend
+ - [web - Crawler](https://github.com/SlivnyiArtem/WebCraulerPy) (python)
+ - [Tg - bot](https://github.com/admitriy1931/Weather_Bot_Java) (Java)
+ - [Automats](https://github.com/1Shadowscale1/Automats) (Java)
+
 
 <!--
 **admitriy1931/admitriy1931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
