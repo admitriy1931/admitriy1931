@@ -5,10 +5,11 @@ Hi 👋🏻, I'm Dmitriy Agafonov
 #### DE
  - [Spark_ETL](https://github.com/admitriy1931/Spark_ETL)
 #### Backend
- - [web - Crawler](https://github.com/SlivnyiArtem/WebCraulerPy) (python)
+ - [Web - Crawler](https://github.com/SlivnyiArtem/WebCraulerPy) (python)
  - [Tg - bot](https://github.com/admitriy1931/Weather_Bot_Java) (Java)
  - [Automats](https://github.com/1Shadowscale1/Automats) (Java)
-
+## 🏆 Github trophies
+![](https://github-profile-trophy.vercel.app/?username=admitriy1931&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
 <!--
 **admitriy1931/admitriy1931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
