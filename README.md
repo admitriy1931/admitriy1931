@@ -1,4 +1,4 @@
-# 💫 About me:
+# ✨ About me:
 Hi 👋🏻, I'm Dmitriy Agafonov
 
 # 💻 Main projects:
