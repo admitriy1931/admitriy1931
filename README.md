@@ -5,7 +5,7 @@ Hi 👋🏻, I'm Dmitriy Agafonov
 #### DE
  - [Spark_ETL](https://github.com/admitriy1931/Spark_ETL)
 #### Backend
- - [ToDo List](https://github.com/admitriy1931/ToDoList)(Java)
+ - [ToDoList](https://github.com/admitriy1931/ToDoList)(Java)
  - [Automats](https://github.com/1Shadowscale1/Automats) (Java)
  - [Web - Crawler](https://github.com/SlivnyiArtem/WebCraulerPy) (Python)
  - [Bot](https://github.com/admitriy1931/Weather_Bot_Java) (Java)
