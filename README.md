@@ -10,8 +10,6 @@ Hi 👋🏻, I'm Dmitriy Agafonov
  - [Web - Crawler](https://github.com/SlivnyiArtem/WebCraulerPy) (Python)
  - [Bot](https://github.com/admitriy1931/Weather_Bot_Java) (Java)
 
-## 🏆 Github trophies
-![](https://github-profile-trophy.vercel.app/?username=admitriy1931&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
 <!--
 **admitriy1931/admitriy1931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
