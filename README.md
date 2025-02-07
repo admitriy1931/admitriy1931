@@ -1,6 +1,3 @@
-# ✨ About me:
-Hi 👋🏻, I'm Dmitriy Agafonov
-
 # 💻 Main projects:
 #### DE
  - [Spark_ETL](https://github.com/admitriy1931/Spark_ETL)
