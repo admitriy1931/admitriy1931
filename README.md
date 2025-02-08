@@ -1,7 +1,5 @@
 # Hi there 👋
 
-<img align="right" src="https://github.com/PetrovKP/PetrovKP/blob/main/2095831.gif" width="15%">
-
 # 💻 Main projects:
 #### DE
  - [Spark_ETL](https://github.com/admitriy1931/Spark_ETL)
