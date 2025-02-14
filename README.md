@@ -1,5 +1,3 @@
-# 👋 Hi there
-
 # 💻 Main projects:
 #### Backend
  - [ToDoList](https://github.com/admitriy1931/ToDoList) (Java)
