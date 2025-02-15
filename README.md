@@ -1,6 +1,6 @@
 # 💻 Main projects:
 #### Backend
- - [ToDoList](https://github.com/admitriy1931/ToDoList) (Java)
+ - [Task Manager](https://github.com/admitriy1931/TaskManager) (Java)
  - [Automats](https://github.com/1Shadowscale1/Automats) (Java)
  - [Web - Crawler](https://github.com/SlivnyiArtem/WebCraulerPy) (Python)
  - [Bot](https://github.com/admitriy1931/Weather_Bot_Java) (Java)
