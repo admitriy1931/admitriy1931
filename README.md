@@ -7,7 +7,7 @@
 
 
 
-<div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Darlitch&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2&hide=Jupyter%20Notebook" height="150" alt="Top Langs" /> </div> <div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=admitriy1931&show_icons=true&theme=tokyonight&hide_border=false&locale=en" height="150" alt="Stats" /> </div>
+<div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=admitriy1931&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2&hide=Jupyter%20Notebook" height="150" alt="Top Langs" /> </div> <div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=admitriy1931&show_icons=true&theme=tokyonight&hide_border=false&locale=en" height="150" alt="Stats" /> </div>
 
 
 
