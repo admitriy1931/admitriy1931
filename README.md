@@ -1,8 +1,8 @@
 # 💻 Main projects:
- - [Task Manager](https://github.com/admitriy1931/TaskManager) (Java) Приложение для управления задачами.
- - [Automats](https://github.com/1Shadowscale1/Automats) (Java) Библиотека на Java для генерации и работы с ДКА и НКА.
- - [Web - Crawler](https://github.com/SlivnyiArtem/WebCraulerPy) (Python) 🌐 Веб-краулер на Python для сбора данных с сайтов.
- - [Telegram Bot](https://github.com/admitriy1931/Weather_Bot_Java) (Java) 🤖 Telegram-бот на Java, показывающий прогноз погоды. 
+ - [Task Manager](https://github.com/admitriy1931/TaskManager) 📌 Приложение для управления задачами.
+ - [Automats](https://github.com/1Shadowscale1/Automats) ⚙️ Библиотека на Java для генерации и работы с ДКА и НКА.
+ - [Web - Crawler](https://github.com/SlivnyiArtem/WebCraulerPy) 🌐 Веб-краулер на Python для сбора данных с сайтов.
+ - [Telegram Bot](https://github.com/admitriy1931/Weather_Bot_Java) 🤖 Telegram-бот на Java, показывающий прогноз погоды. 
  - [ModifiedETL](https://github.com/admitriy1931/ModifiedETL) 🔄 ETL-пайплайн с кастомной логикой обработки данных.
 
 
